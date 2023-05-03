@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    font-family:sans-serif
+}
+#caja1{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    margin:auto;
+    margin-top: 200px;
+}
+#caja2{
+  
+    width: 400px;
+    height: 40px;
+}
+h1{
+  
+    position:relative;
+    left: 13px;
+    top: 10px;
+}
+#foto{
+font-size: 3px;
+width: 35px;
+position: relative;
+left: 350px;
+bottom: 50px;
+}
+
+#texto{
+display: block;
+position: relative;
+width: 190px;
+height: 70px;
+margin-left: 12px;
+
+
+}
+input{
+display: block;
+position: relative;
+width: 160px;
+margin: 15px ;
+left: 200px ;
+bottom: 80px;
+border: 0;
+border-bottom: 1px solid;
+
+}
+button{
+    position: relative;
+    left: 150px;
+    top: 5px; 
+    background-color: rgb(159, 156, 156);
+    border: 0;
+   padding: 8px;
+
+}
